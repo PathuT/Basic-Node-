@@ -9,7 +9,7 @@ const server = http.createServer((req, res) => {
     });
 
     // Sending the HTML response
-    res.end('<h1>Hello GFG</h1>');
+    res.end('<h1>Hello Everyone</h1>');
 });
 
 // Listening on port 3000
